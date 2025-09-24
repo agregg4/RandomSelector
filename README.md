@@ -17,7 +17,6 @@ Max Tally count
 No Ties (rerun)
 
 # Usage:
-On program start ->
 Add desired words ->
 Type f and press enter ->
 Terminal will print results.
