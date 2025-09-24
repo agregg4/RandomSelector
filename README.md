@@ -8,13 +8,13 @@ A winner is selected by highest tally count or the user is notified of a tie.
 Limited usages include q and f as these are escape characters.
 
 # Future intents
-Retry option - r
-Options menu
-Options for controlling selection
+- Retry option - r
+- Options menu
+- Options for controlling selection
 # Options:
-Max word count
-Max Tally count
-No Ties (rerun)
+- Max word count
+- Max Tally count
+- No Ties (rerun)
 
 # Usage:
 Add desired words ->
@@ -23,5 +23,7 @@ Terminal will print results.
 
 # Other Usages
 If you have made an incorrect entry and wish to retry, the current option is to use q then enter to quit.
+
 Alternatively f is another way out but it will complete execution.
+
 NOT IMPLEMENTED - r key will restart and notify user the input is reset for fresh entry.
